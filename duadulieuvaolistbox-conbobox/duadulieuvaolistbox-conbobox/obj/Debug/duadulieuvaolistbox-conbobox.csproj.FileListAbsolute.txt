@@ -1,0 +1,12 @@
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\bin\Debug\duadulieuvaolistbox-conbobox.exe.config
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\bin\Debug\duadulieuvaolistbox-conbobox.exe
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\bin\Debug\duadulieuvaolistbox-conbobox.pdb
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\obj\Debug\duadulieuvaolistbox-conbobox.csprojResolveAssemblyReference.cache
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\obj\Debug\duadulieuvaolistbox_conbobox.Form1.resources
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\obj\Debug\duadulieuvaolistbox_conbobox.Properties.Resources.resources
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\obj\Debug\duadulieuvaolistbox-conbobox.csproj.GenerateResource.Cache
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\obj\Debug\duadulieuvaolistbox-conbobox.exe
+E:\tailieuDH\Laptrinh\C#\C#_Winform\New folder\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\obj\Debug\duadulieuvaolistbox-conbobox.pdb
+E:\tailieuDH\Laptrinh\C#\C#_Winform\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\bin\Debug\duadulieuvaolistbox-conbobox.exe.config
+E:\tailieuDH\Laptrinh\C#\C#_Winform\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\obj\Debug\duadulieuvaolistbox-conbobox.exe
+E:\tailieuDH\Laptrinh\C#\C#_Winform\dua du lieu vao listbox - combobox\duadulieuvaolistbox-conbobox\duadulieuvaolistbox-conbobox\obj\Debug\duadulieuvaolistbox-conbobox.pdb
